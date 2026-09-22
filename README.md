@@ -58,7 +58,7 @@ To analyze coffee shop sales data and transform raw data into meaningful busines
 
 📷 Dashboard Preview
 
-"Coffee Shop Sales Dashboard" (Coffeeshop_Sales_Dashboard.png)
+![Coffee Shop Sales Dashboard](Coffeeshop_Sales_Dashboard.png)
 
 
 
@@ -66,6 +66,3 @@ To analyze coffee shop sales data and transform raw data into meaningful busines
 
 This project helped me improve my Excel dashboarding, data analytics, data visualization, and business insight generation skills while transforming raw coffee shop sales data into meaningful business-driven insights.
 
----
-
-Project Type: Data Analytics | Coffee Shop Sales Analytics | Microsoft Excel
